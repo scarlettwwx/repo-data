@@ -3,7 +3,7 @@ Introduction to the files
 
 `main-database-scores` stores whole data processing steps, including ryan,richard,blick scores, normalizations of them and representativeness. There are about 29694 entries after deleting the overlaps. 
 
-`scores_sorted_blick_repre`, `scores_sorted_richard_repre`, `scores_sorted_ryan_repre` has no difference than main-database-scores, except they are sorted in different representativeness score.
+`scores_sorted_blick_repre`, `scores_sorted_richard_repre`, `scores_sorted_ryan_repre` have no difference than `main-database-scores`, except they are sorted in different representativeness score.
 
 `master-list-words(ipa)` has only one column with IPAs, extracted from the IPA column of `scores_sorted_blick_repre`
 
