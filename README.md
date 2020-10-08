@@ -7,4 +7,4 @@ Introduction to the files
 
 `master-list-words(ipa)` has only one column with IPAs, extracted from the IPA column of scores_sorted_blick_repre
 
-`vanna dropbox` folder includes the raw data. `RichardScores-BLICKtop20000` is richard scores for top 200000 of blick model. `RichardScores-ryantop20000` is richard scores for top 200000 of ryan model (actually there are only 15162 entries in it). There are quite a few overlapped entries between them, so after removing them, only 29694 entries left in `main-database-scores`
+`vanna dropbox` folder includes the raw data. `RichardScores-BLICKtop20000` is richard scores for top 20000 of blick model. `RichardScores-ryantop20000` is richard scores for top 20000 of ryan model (actually there are only 15162 entries in it). There are quite a few overlapped entries between them, so after removing them, only 29694 entries left in `main-database-scores`
