@@ -9,4 +9,4 @@ Introduction to the files
 
 `vanna dropbox` folder includes the raw data. `RichardScores-BLICKtop20000` is richard scores for top 20000 of blick model. `RichardScores-ryantop20000` is richard scores for top 20000 of ryan model (actually there are only 15162 entries in it). There are quite a few overlapped entries between them, so after removing them, only 29694 entries left in `main-database-scores`
 
-`generation.py` is the script to generate the monosyllabic words in IPA with given ruls.
+`generation.py` is the script to generate the monosyllabic words in IPA with given rules.
