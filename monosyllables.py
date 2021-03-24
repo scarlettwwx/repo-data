@@ -85,7 +85,7 @@ def constraint_check(syllable):
     list2.append(syllable[j])
   outcome = list(zip(list1,list2))
   for (a,b) in outcome:
-    if  (a in consonants and b in consonants):
+    if (a in consonants and a==b):
       return False
     else:
       continue
